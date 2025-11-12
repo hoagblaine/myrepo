@@ -1,1 +1,2 @@
-def hello():\n    return 'hello\n
+def hello():
+    print("Hello, Blaine")
